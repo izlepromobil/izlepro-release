@@ -1,0 +1,8 @@
+{
+  "version_code": 3,
+  "version_name": "2.0.1",
+  "release_notes": "Yeni Özellikler:\n- Kişiselleştirilmiş öneri motoru\n- Yenilenen ana sayfa vitrini\n- Dizi bittiğinde otomatik yeni dizi önerisi ve afişli geçiş\n- Bölüm başlarken şık afiş ve yükleme göstergesi",
+  "apk_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.1/IzlePro_Mobil.apk",
+  "download_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.1/IzlePro_Mobil.apk",
+  "force_update": false
+}
