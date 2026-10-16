@@ -1,8 +1,9 @@
 {
-  "version_code": 5,
-  "version_name": "2.0.3",
-  "release_notes": "Yenilikler (v2.0.3):\n- Video oynatıcıda ileri/geri sarma takılmaları ve görüntü kayması düzeltildi\n- Uygulama açılış hızı optimize edildi, siyah ekran beklemesi kaldırıldı\n- İnternetsiz çevrimdışı izleme ve 'İzlemeye Devam Et' senkronizasyonu güçlendirildi\n- İndirme yöneticisinde eksik parça oluşumunu engelleyen koruma eklendi\n- Android TV ve Mi Box kumanda uyumluluğu tam hale getirildi",
-  "apk_url": "https://github.com/izlepromobil/izlepro-release/releases/download/2.0.3/IzlePro_Mobil.apk",
-  "download_url": "https://github.com/izlepromobil/izlepro-release/releases/download/2.0.3/IzlePro_Mobil.apk",
+  "version_code": 6,
+  "version_name": "2.0.4",
+  "release_notes": "İzlePro v2.0.4 Yenilikleri:\n- 🚀 Kaynak Sağlık Testi: Sunucu durumları, gecikme süreleri (ms) ve erişim kontrolü eklendi.\n- 📺 Xiaomi Mi Box (Android TV) & Philips TV Gelişmiş Yansıtma (DLNA / HTTP Partial Range).\n- 📝 Akıllı Altyazı Senkronizasyon Kaydırıcısı (Sub Delay) ile milisaniyelik ses uyumu.\n- ⏩ YouTube Stili Kademeli Sarma (+10s, +20s, +30s) ve kavisli dalga animasyonu.\n- ⚡ TV Kumanda 0-9 tuş takımı ile kanal zapping & hızlı CC altyazı geçişi.\n- 🧹 İzlenen bölümleri otomatik silme ve disk alanı temizleme desteği.\n- 🎬 TMDB & IMDb puanları, afişleri ve detaylı özet kartları.\n- 🛡️ Hata ayıklama ve loglama altyapısı güçlendirildi.",
+  "apk_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.4/IzlePro_Mobil.apk",
+  "download_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.4/IzlePro_Mobil.apk",
+  "apk_tv_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.4/IzlePro_TV.apk",
   "force_update": false
 }
