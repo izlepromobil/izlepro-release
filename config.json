@@ -1,0 +1,65 @@
+{
+  "sources": [
+    {
+      "name": "Narto Drama (Dramalar & Mini Diziler)",
+      "url": "https://narto-drama.com",
+      "type": "narto",
+      "badge": "🔥 Popüler"
+    },
+    {
+      "name": "Drama Dizilerim (Mini Diziler & Dublaj)",
+      "url": "https://dramadizilerim.com",
+      "type": "dramadizilerim",
+      "badge": "💎 HD Mini Dizi"
+    },
+    {
+      "name": "LiderDrama (Özel Dizi Kanalı)",
+      "url": "https://liderdrama.com",
+      "type": "liderdrama",
+      "badge": "⭐ Lider"
+    },
+    {
+      "name": "Animecix (Anime & Çizgi Diziler)",
+      "url": "https://animecix.tv",
+      "type": "animecix",
+      "badge": "🎌 Anime"
+    },
+    {
+      "name": "DiziBox (Yabancı Diziler)",
+      "url": "https://www.dizibox.live",
+      "type": "dizibox",
+      "badge": "🎬 HD Dizi"
+    },
+    {
+      "name": "Dizipod (Yabancı Dizi & Film)",
+      "url": "https://dizipod.com",
+      "type": "dizipod",
+      "badge": "✨ Güncel"
+    },
+    {
+      "name": "Hdfilmcehennemi (Sinema Filmleri)",
+      "url": "https://www.hdfilmcehennemi.nl",
+      "type": "hdfilmcehennemi",
+      "badge": "🔥 Film"
+    },
+    {
+      "name": "FilmMakinesi (Full HD Filmler & Sinema)",
+      "url": "https://filmmakinesi.to",
+      "type": "filmmakinesi",
+      "badge": "🍿 FilmMakinesi"
+    },
+    {
+      "name": "FullHDFilmİzlesene (HD Film Platformu)",
+      "url": "https://www.fullhdfilmizlesene.now",
+      "type": "fullhdfilmizlesene",
+      "badge": "🎬 FullHDFilm"
+    }
+  ],
+  "liveChannels": {},
+  "announcement": {
+    "id": "v204_welcome",
+    "title": "İzlePro v2.0.4 Yayında!",
+    "message": "Yeni sürümle birlikte kaynak sağlık testi, gelişmiş TV yansıtma ve kesintisiz oynatma özellikleri aktif edildi.",
+    "type": "info"
+  }
+}
