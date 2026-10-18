@@ -1,9 +1,0 @@
-{
-  "version_code": 6,
-  "version_name": "2.0.4",
-  "release_notes": "İzlePro v2.0.4 Yenilikleri:\n- 🍿 Film siteleri genişletildi: FilmMakinesi ve FullHDFilmİzlesene resmi kaynak olarak eklendi.\n- 🎬 Tekil kaynak vitrini: En Çok İzlenenler, Yeni Yüklenenler, Editörün Seçtikleri ve Keşfet rafları eklendi.\n- 🎌 Anime yayın akışları ve dizi kaynakları (OpenAnime, AnimPow, SonAnime) optimize edildi.\n- ⚡ Hdfilmcehennemi (.nl) altyapısı yenilendi, şifreli HLS yayınları anında oynatılıyor.\n- 📺 Xiaomi Mi Box (Android TV) & Philips TV Gelişmiş Yansıtma (DLNA / Cast).\n- 🚀 Kaynak Sağlık Testi ve Arama Geçmişi iyileştirildi.",
-  "apk_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.4/IzlePro_Mobil.apk",
-  "download_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.4/IzlePro_Mobil.apk",
-  "apk_tv_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.4/IzlePro_TV.apk",
-  "force_update": false
-}
