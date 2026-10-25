@@ -1,9 +1,0 @@
-{
-  "version_code": 7,
-  "version_name": "2.0.5",
-  "release_notes": "İzlePro v2.0.5 Yenilikleri:\n- 🎭 DramaTR Doğrudan CDN Akışı: Süresi dolan proxy linkleri yerine doğrudan AWS CloudFront entegrasyonu ile \"Video akışına bağlanılamadı\" hatası kalıcı olarak giderildi.\n- 🔄 Kesintisiz Arka Plan İndirmesi: Ekran koruyucu devreye girdiğinde veya başka uygulamaya geçildiğinde indirmelerin iptal olması engellendi (WakeLock).\n- 💬 Kalıcı Altyazı Desteği: DramaTR ve diğer kaynaklar için şeffaf, video boyutunu bozmayan WebVTT altyazı motoru.\n- 🔴 YouTube Sıfırdan Yenilendi: Donma ve oynatma hataları giderilerek güncel API motoruna geçirildi.\n- 🛡️ Oynatıcı Tamponlama Koruması: Video yüklenirken erken zaman aşımına düşme engellendi (15 sn).",
-  "apk_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.5/IzlePro_Mobil.apk",
-  "download_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.5/IzlePro_Mobil.apk",
-  "apk_tv_url": "https://github.com/izlepromobil/izlepro-release/releases/download/v2.0.5/IzlePro_TV.apk",
-  "force_update": false
-}
